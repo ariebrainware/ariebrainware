@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on RushOwl Singapore Pte Ltd, a startup that working on Smart Mobility Solution
+- 🌱 I’m currently improvise on Golang, learn the deeper topic about Golang
+- 👯 I’m looking to collaborate on Open Source that used Golang as Backend
+- 💬 Ask me about Backend and Microservices
+- 📫 How to reach me: https://ariebrainware.com or drone_indie.0q@icloud.com
