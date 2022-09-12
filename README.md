@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on RushOwl Singapore Pte Ltd, a startup that working on Smart Mobility Solution
-- 🌱 I’m currently improvise on Golang, learn the deeper topic about Golang
+- 🔭 I’m currently working on Evolto Technology Co. Ltd
+- 🌱 I’m currently improvise on DevOps, learn the deeper topic about how to build cloud-based scalable infrastructure
 - 👯 I’m looking to collaborate on Open Source that used Golang as Backend
 - 💬 Ask me about Backend and Microservices
 - 📫 How to reach me: https://ariebrainware.com or drone_indie.0q@icloud.com
